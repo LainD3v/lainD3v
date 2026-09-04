@@ -17,4 +17,16 @@ My name is Elisa, I'm Brazilian, living in Greece, and I'm a total gamer and tec
 🎮 Gaming & Setup: PC Gamer, Nintendo Switch, RPGs, Indie Games
 
 
+<pre>
+            _ _
+           | (_)
+  ___| |_ ___  __ _
+ / _ \ | / __|/ _` |
+|  __/ | \__ \ (_| |
+ \___|_|_|___/\__,_|
+
+</pre>
+
+
+
 
