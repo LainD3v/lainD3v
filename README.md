@@ -2,7 +2,7 @@ My name is Elisa, I'm Brazilian, living in Greece, and I'm a total gamer and tec
 
 <em>"A ship in harbor is safe, but that is not what ships are built for.</em>"
 
-## Technologies::computer:<b>continuous learning </b>
+## Technologies: :computer: <b>continuous learning </b>
 
 🌐 Web Development: HTML5, CSS3, JavaScript (ES6+), Responsive Design
 
